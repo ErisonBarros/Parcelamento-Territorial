@@ -3,10 +3,9 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "Parcelamento Territorial.ipynb",
+      "name": "Cópia de Parcelamento Territorial.ipynb",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyOb9qvDB9W/zRYYRqXBl/Bg",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -22,7 +21,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/ErisonBarros/Parcelamento-Territorial/blob/master/Parcelamento_Territorial.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/ErisonBarros/Parcelamento-Territorial/blob/master/Parcelamento_Territorial.md\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -52,6 +51,7 @@
         "colab_type": "text"
       },
       "source": [
+        "\n",
         "\n",
         "Ementa da Disciplina\n",
         "1. Técnicas de Parcelamento Territorial Rural;\t\t\t\t\t\t\t\t\t\n",
@@ -96,7 +96,7 @@
         "colab_type": "text"
       },
       "source": [
-        "METODOLOGIA"
+        "## METODOLOGIA"
       ]
     },
     {
@@ -221,26 +221,6 @@
       },
       "source": [
         "[Cronograma da Disciplina](https://docs.google.com/spreadsheets/d/12PHs62aWj7YfKRkDIOQveTmwkBoxyizb4S9RtduzYbQ/edit#gid=1647738855&range=A50:J144)"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "wAFppaDyl28s",
-        "colab_type": "text"
-      },
-      "source": [
-        ""
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "-8qsTEG2l76g",
-        "colab_type": "text"
-      },
-      "source": [
-        ""
       ]
     }
   ]
