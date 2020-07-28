@@ -1,1 +1,0 @@
-# Parcelamento-Territorial
