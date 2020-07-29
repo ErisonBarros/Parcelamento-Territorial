@@ -1,3 +1,0 @@
-# Parcelamento-Territorial
-
-xcxcxcxmcbxmcbxmbcxmbcbxcxmcbx
